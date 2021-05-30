@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/upptime-demo/static/css/main.9c1dd573.chunk.css",
+    "main.js": "/upptime-demo/static/js/main.afd9ab79.chunk.js",
+    "main.js.map": "/upptime-demo/static/js/main.afd9ab79.chunk.js.map",
+    "runtime-main.js": "/upptime-demo/static/js/runtime-main.41db1eaa.js",
+    "runtime-main.js.map": "/upptime-demo/static/js/runtime-main.41db1eaa.js.map",
+    "static/js/2.f7c6f1dc.chunk.js": "/upptime-demo/static/js/2.f7c6f1dc.chunk.js",
+    "static/js/2.f7c6f1dc.chunk.js.map": "/upptime-demo/static/js/2.f7c6f1dc.chunk.js.map",
+    "static/js/3.19cfee8b.chunk.js": "/upptime-demo/static/js/3.19cfee8b.chunk.js",
+    "static/js/3.19cfee8b.chunk.js.map": "/upptime-demo/static/js/3.19cfee8b.chunk.js.map",
+    "index.html": "/upptime-demo/index.html",
+    "static/css/main.9c1dd573.chunk.css.map": "/upptime-demo/static/css/main.9c1dd573.chunk.css.map",
+    "static/js/2.f7c6f1dc.chunk.js.LICENSE.txt": "/upptime-demo/static/js/2.f7c6f1dc.chunk.js.LICENSE.txt",
+    "static/media/graph1.86fbd88a.jpg": "/upptime-demo/static/media/graph1.86fbd88a.jpg",
+    "static/media/graph3.78867a3c.PNG": "/upptime-demo/static/media/graph3.78867a3c.PNG",
+    "static/media/graph4.0c336292.PNG": "/upptime-demo/static/media/graph4.0c336292.PNG",
+    "static/media/netflix.ee6d87ac.PNG": "/upptime-demo/static/media/netflix.ee6d87ac.PNG",
+    "static/media/wp.acf3c7e5.PNG": "/upptime-demo/static/media/wp.acf3c7e5.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41db1eaa.js",
+    "static/js/2.f7c6f1dc.chunk.js",
+    "static/css/main.9c1dd573.chunk.css",
+    "static/js/main.afd9ab79.chunk.js"
+  ]
+}
